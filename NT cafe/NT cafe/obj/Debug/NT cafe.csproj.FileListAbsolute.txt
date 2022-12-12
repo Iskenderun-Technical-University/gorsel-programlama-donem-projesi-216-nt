@@ -30,3 +30,20 @@ C:\Users\NADIA\Desktop\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\o
 C:\Users\NADIA\Desktop\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\obj\Debug\NT cafe.pdb
 C:\Users\NADIA\Desktop\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\obj\Debug\NT_cafe.SIC.resources
 C:\Users\NADIA\Desktop\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\obj\Debug\NT_cafe.sok.resources
+C:\Users\ASUS ROG\Desktop\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\bin\Debug\NT cafe.exe.config
+C:\Users\ASUS ROG\Desktop\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\bin\Debug\NT cafe.exe
+C:\Users\ASUS ROG\Desktop\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\bin\Debug\NT cafe.pdb
+C:\Users\ASUS ROG\Desktop\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\bin\Debug\Guna.UI2.dll
+C:\Users\ASUS ROG\Desktop\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\obj\Debug\NT cafe.csproj.AssemblyReference.cache
+C:\Users\ASUS ROG\Desktop\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\obj\Debug\NT cafe.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS ROG\Desktop\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\obj\Debug\NT_cafe._2page.resources
+C:\Users\ASUS ROG\Desktop\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\obj\Debug\NT_cafe.Form1.resources
+C:\Users\ASUS ROG\Desktop\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\obj\Debug\NT_cafe.menu.resources
+C:\Users\ASUS ROG\Desktop\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\obj\Debug\NT_cafe.Properties.Resources.resources
+C:\Users\ASUS ROG\Desktop\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\obj\Debug\NT_cafe.SIC.resources
+C:\Users\ASUS ROG\Desktop\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\obj\Debug\NT_cafe.sok.resources
+C:\Users\ASUS ROG\Desktop\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\obj\Debug\NT cafe.csproj.GenerateResource.cache
+C:\Users\ASUS ROG\Desktop\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\obj\Debug\NT cafe.csproj.CoreCompileInputs.cache
+C:\Users\ASUS ROG\Desktop\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\obj\Debug\NT cafe.csproj.CopyComplete
+C:\Users\ASUS ROG\Desktop\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\obj\Debug\NT cafe.exe
+C:\Users\ASUS ROG\Desktop\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\obj\Debug\NT cafe.pdb

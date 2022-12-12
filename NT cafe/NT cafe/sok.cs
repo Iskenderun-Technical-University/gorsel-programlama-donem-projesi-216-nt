@@ -32,7 +32,7 @@ namespace NT_cafe
 
         private void button2_Click(object sender, EventArgs e)
         {
-            if (x > 1)
+            if (x > 0)
             {
                 x = int.Parse(label3.Text);
                 x--;
@@ -49,7 +49,7 @@ namespace NT_cafe
 
         private void button3_Click(object sender, EventArgs e)
         {
-            if (x > 1)
+            if (x > 0)
             {
                 x = int.Parse(label4.Text);
                 x--;
@@ -66,7 +66,7 @@ namespace NT_cafe
 
         private void button5_Click(object sender, EventArgs e)
         {
-            if (x > 1)
+            if (x > 0)
             {
                 x = int.Parse(label7.Text);
                 x--;
@@ -83,7 +83,7 @@ namespace NT_cafe
 
         private void button7_Click(object sender, EventArgs e)
         {
-            if (x > 1)
+            if (x > 0)
             {
                 x = int.Parse(label10.Text);
                 x--;
@@ -100,7 +100,7 @@ namespace NT_cafe
 
         private void button9_Click(object sender, EventArgs e)
         {
-            if (x > 1)
+            if (x > 0)
             {
                 x = int.Parse(label13.Text);
                 x--;
@@ -117,7 +117,7 @@ namespace NT_cafe
        
 private void button11_Click(object sender, EventArgs e)
         {
-            if (x > 1)
+            if (x > 0)
             {
                 x = int.Parse(label16.Text);
                 x--;
