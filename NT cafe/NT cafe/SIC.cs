@@ -218,49 +218,49 @@ namespace NT_cafe
 
         private void button16_Click(object sender, EventArgs e)
         {
-            if (Int32.Parse(label10.Text) > 0) // ad
+            if (Int32.Parse(label10.Text) > 0)  
             {
                 z = Convert.ToInt32(label11.Text.Replace("TL", " ")) * Int32.Parse(label10.Text);
                 x = z + Int32.Parse(Program.ord.toplam.Text);
                 Program.ord.toplam.Text = Convert.ToString(x);
 
-                date[0] = label12.Text; // name
-                date[1] = label10.Text; //adet
-                date[2] = label11.Text.Replace("TL", " "); //price
+                date[0] = label12.Text; 
+                date[1] = label10.Text;  
+                date[2] = label11.Text.Replace("TL", " ");  
                 Program.ord.data.Rows.Add(date);
-                label10.Text = "0"; //ad
+                label10.Text = "0";  
             }
         }
 
         private void button17_Click(object sender, EventArgs e)
         {
-            if (Int32.Parse(label13.Text) > 0) // ad
+            if (Int32.Parse(label13.Text) > 0)  
             {
                 z = Convert.ToInt32(label14.Text.Replace("TL", " ")) * Int32.Parse(label13.Text);
                 x = z + Int32.Parse(Program.ord.toplam.Text);
                 Program.ord.toplam.Text = Convert.ToString(x);
 
-                date[0] = label15.Text; // name
-                date[1] = label13.Text; //adet
-                date[2] = label14.Text.Replace("TL", " "); //price
+                date[0] = label15.Text; 
+                date[1] = label13.Text;  
+                date[2] = label14.Text.Replace("TL", " ");  
                 Program.ord.data.Rows.Add(date);
-                label13.Text = "0"; //ad
+                label13.Text = "0";  
             }
         }
 
         private void button18_Click(object sender, EventArgs e)
         {
-            if (Int32.Parse(label16.Text) > 0) // ad
+            if (Int32.Parse(label16.Text) > 0)  
             {
                 z = Convert.ToInt32(label17.Text.Replace("TL", " ")) * Int32.Parse(label16.Text);
                 x = z + Int32.Parse(Program.ord.toplam.Text);
                 Program.ord.toplam.Text = Convert.ToString(x);
 
-                date[0] = label18.Text; // name
-                date[1] = label16.Text; //adet
-                date[2] = label17.Text.Replace("TL", " "); //price
+                date[0] = label18.Text; 
+                date[1] = label16.Text;  
+                date[2] = label17.Text.Replace("TL", " ");  
                 Program.ord.data.Rows.Add(date);
-                label16.Text = "0"; //ad
+                label16.Text = "0";  
             }
         }
 
@@ -271,11 +271,7 @@ namespace NT_cafe
             {
                
                 z = Convert.ToInt32(label2.Text.Replace("TL", " ")) * Int32.Parse(label3.Text);
-                /* if (Program.ord.toplam.Text == "0")
-                 {
-                     z = 0;
-                     z += Int32.Parse(label3.Text);
-                 }*/
+               
                 x = z + Int32.Parse( Program.ord.toplam.Text);
                 Program.ord.toplam.Text = Convert.ToString(x);
                 
