@@ -36,7 +36,7 @@ namespace NT_cafe
 
         private void guna2GradientButton1_Click(object sender, EventArgs e)
         {
-            Loadform(new SIC());
+            Loadform(Program.sicak);
         }
 
         private void guna2Button1_Click(object sender, EventArgs e)
@@ -61,7 +61,17 @@ namespace NT_cafe
 
         private void guna2GradientButton2_Click(object sender, EventArgs e)
         {
-            Loadform(new sok());
+            Loadform(Program.soguk);
+        }
+
+        private void guna2GradientButton4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2GradientButton4_Click_1(object sender, EventArgs e)
+        {
+            Loadform(Program.ord);
         }
     }
 }

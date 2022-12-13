@@ -12,6 +12,7 @@ namespace NT_cafe
         public static menu mnu;
         public static SIC sicak;
         public static sok soguk;
+        public static frmORDER ord;
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
@@ -22,9 +23,10 @@ namespace NT_cafe
             Application.SetCompatibleTextRenderingDefault(false);
             frm = new Form1();
             mnu = new menu();
-            SIC sicak = new SIC();
-            soguk = new sok();  
-            Application.Run(new Form1());
+            sicak = new SIC();
+            soguk = new sok();
+            ord = new frmORDER();
+            Application.Run(frm);
         }
     }
 }

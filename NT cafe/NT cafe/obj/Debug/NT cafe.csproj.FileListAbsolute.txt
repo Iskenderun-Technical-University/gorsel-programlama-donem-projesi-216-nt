@@ -47,3 +47,4 @@ C:\Users\ASUS ROG\Desktop\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT caf
 C:\Users\ASUS ROG\Desktop\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\obj\Debug\NT cafe.csproj.CopyComplete
 C:\Users\ASUS ROG\Desktop\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\obj\Debug\NT cafe.exe
 C:\Users\ASUS ROG\Desktop\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\obj\Debug\NT cafe.pdb
+C:\Users\ASUS ROG\Desktop\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\obj\Debug\NT_cafe.frmORDER.resources
