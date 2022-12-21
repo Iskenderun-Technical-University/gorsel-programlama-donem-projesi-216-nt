@@ -59,7 +59,7 @@ namespace NT_cafe
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -80,7 +80,7 @@ namespace NT_cafe
 
         private void timer1_Tick_1(object sender, EventArgs e)
         {
-            Program.mnu.Show();
+            Program.mnuu.Show();
             this.Hide();
         }
     }

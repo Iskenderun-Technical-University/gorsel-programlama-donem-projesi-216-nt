@@ -13,7 +13,7 @@ namespace NT_cafe
 {
     public partial class sok : Form
     {
-        int x, z;
+        int x, z,t;
         public string[] date = new string[3];
         public sok()
         {
@@ -144,7 +144,8 @@ private void button11_Click(object sender, EventArgs e)
                 date[1] = label0.Text;  
                 date[2] = label2.Text.Replace("TL", " ");  
                 Program.ord.data.Rows.Add(date);
-                label0.Text = "0";  
+                label0.Text = "0";
+                
             }
         }
 

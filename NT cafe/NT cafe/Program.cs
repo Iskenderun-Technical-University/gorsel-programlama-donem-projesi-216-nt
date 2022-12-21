@@ -9,7 +9,7 @@ namespace NT_cafe
     internal static class Program
     {
         public static Form1 frm;
-        public static menu mnu;
+        public static menu mnuu;
         public static SIC sicak;
         public static sok soguk;
         public static frmORDER ord;
@@ -23,7 +23,7 @@ namespace NT_cafe
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             frm = new Form1();
-            mnu = new menu();
+            mnuu = new menu();
             sicak = new SIC();
             soguk = new sok();
             ord = new frmORDER();

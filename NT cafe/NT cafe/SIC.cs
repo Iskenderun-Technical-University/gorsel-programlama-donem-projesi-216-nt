@@ -285,6 +285,7 @@ namespace NT_cafe
                 date[1] = label3.Text;
                 Program.ord.data.Rows.Add(date);
                 label3.Text = "0";
+               
             }
                 
 
