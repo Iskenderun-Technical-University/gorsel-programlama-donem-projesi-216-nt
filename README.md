@@ -1,1 +1,10 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8910830&assignment_repo_type=AssignmentRepo)
+## fluffy ice 
+Dondurma satan bir magazadir ve her turlu icecek
+ sadece bizimle mevcuttur ve tum magazalarla 
+ rekabet eden tekliflerimiz vardir.
+
+ ## languages
+ English
+
+ ## frameWork Kullanarak
+ GUNA frameWork.
