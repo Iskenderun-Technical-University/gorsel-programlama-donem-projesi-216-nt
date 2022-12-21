@@ -31,7 +31,7 @@ namespace NT_cafe
 
         private void menu_Load(object sender, EventArgs e)
         {
-
+            Loadform(Program.ana);
         }
 
         private void guna2GradientButton1_Click(object sender, EventArgs e)
@@ -72,6 +72,21 @@ namespace NT_cafe
         private void guna2GradientButton4_Click_1(object sender, EventArgs e)
         {
             Loadform(Program.ord);
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel3_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

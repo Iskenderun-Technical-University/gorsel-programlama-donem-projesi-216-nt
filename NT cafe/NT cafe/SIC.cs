@@ -264,6 +264,11 @@ namespace NT_cafe
             }
         }
 
+        private void label15_Click(object sender, EventArgs e)
+        {
+
+        }
+
         private void button13_Click(object sender, EventArgs e)
         {
            

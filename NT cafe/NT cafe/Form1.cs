@@ -64,19 +64,24 @@ namespace NT_cafe
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            
          }
 
         private void label1_Click(object sender, EventArgs e)
         {
-            Program.mnu.Show();
-            this.Hide();
+            
 
         }
 
         private void timer1_Tick(object sender, EventArgs e)
         {
             
+        }
+
+        private void timer1_Tick_1(object sender, EventArgs e)
+        {
+            Program.mnu.Show();
+            this.Hide();
         }
     }
 }

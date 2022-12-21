@@ -47,3 +47,21 @@ C:\Users\ASUS ROG\Desktop\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT caf
 C:\Users\ASUS ROG\Desktop\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\obj\Debug\NT cafe.exe
 C:\Users\ASUS ROG\Desktop\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\obj\Debug\NT cafe.pdb
 C:\Users\ASUS ROG\Desktop\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\obj\Debug\NT_cafe.frmORDER.resources
+C:\Users\NADIA\OneDrive\Masaüstü\lllllllllllllllllllllllllllllllllllllllllllll\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\bin\Debug\NT cafe.exe.config
+C:\Users\NADIA\OneDrive\Masaüstü\lllllllllllllllllllllllllllllllllllllllllllll\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\bin\Debug\NT cafe.exe
+C:\Users\NADIA\OneDrive\Masaüstü\lllllllllllllllllllllllllllllllllllllllllllll\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\bin\Debug\NT cafe.pdb
+C:\Users\NADIA\OneDrive\Masaüstü\lllllllllllllllllllllllllllllllllllllllllllll\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\bin\Debug\Guna.UI2.dll
+C:\Users\NADIA\OneDrive\Masaüstü\lllllllllllllllllllllllllllllllllllllllllllll\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\obj\Debug\NT cafe.csproj.AssemblyReference.cache
+C:\Users\NADIA\OneDrive\Masaüstü\lllllllllllllllllllllllllllllllllllllllllllll\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\obj\Debug\NT cafe.csproj.SuggestedBindingRedirects.cache
+C:\Users\NADIA\OneDrive\Masaüstü\lllllllllllllllllllllllllllllllllllllllllllll\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\obj\Debug\NT_cafe.Form1.resources
+C:\Users\NADIA\OneDrive\Masaüstü\lllllllllllllllllllllllllllllllllllllllllllll\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\obj\Debug\NT_cafe.frmORDER.resources
+C:\Users\NADIA\OneDrive\Masaüstü\lllllllllllllllllllllllllllllllllllllllllllll\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\obj\Debug\NT_cafe.menu.resources
+C:\Users\NADIA\OneDrive\Masaüstü\lllllllllllllllllllllllllllllllllllllllllllll\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\obj\Debug\NT_cafe.Properties.Resources.resources
+C:\Users\NADIA\OneDrive\Masaüstü\lllllllllllllllllllllllllllllllllllllllllllll\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\obj\Debug\NT_cafe.SIC.resources
+C:\Users\NADIA\OneDrive\Masaüstü\lllllllllllllllllllllllllllllllllllllllllllll\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\obj\Debug\NT_cafe.sok.resources
+C:\Users\NADIA\OneDrive\Masaüstü\lllllllllllllllllllllllllllllllllllllllllllll\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\obj\Debug\NT cafe.csproj.GenerateResource.cache
+C:\Users\NADIA\OneDrive\Masaüstü\lllllllllllllllllllllllllllllllllllllllllllll\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\obj\Debug\NT cafe.csproj.CoreCompileInputs.cache
+C:\Users\NADIA\OneDrive\Masaüstü\lllllllllllllllllllllllllllllllllllllllllllll\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\obj\Debug\NT cafe.csproj.CopyComplete
+C:\Users\NADIA\OneDrive\Masaüstü\lllllllllllllllllllllllllllllllllllllllllllll\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\obj\Debug\NT cafe.exe
+C:\Users\NADIA\OneDrive\Masaüstü\lllllllllllllllllllllllllllllllllllllllllllll\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\obj\Debug\NT cafe.pdb
+C:\Users\NADIA\OneDrive\Masaüstü\lllllllllllllllllllllllllllllllllllllllllllll\gorsel-programlama-donem-projesi-216-nt\NT cafe\NT cafe\obj\Debug\NT_cafe.anasayfa.resources

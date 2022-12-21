@@ -13,6 +13,7 @@ namespace NT_cafe
         public static SIC sicak;
         public static sok soguk;
         public static frmORDER ord;
+        public static anasayfa ana;
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
@@ -26,6 +27,7 @@ namespace NT_cafe
             sicak = new SIC();
             soguk = new sok();
             ord = new frmORDER();
+            ana = new anasayfa();   
             Application.Run(frm);
         }
     }
